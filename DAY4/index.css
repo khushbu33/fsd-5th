@@ -1,0 +1,80 @@
+#container {
+    display: flex;
+    border: 2px solid #444;
+    height: 250px;
+    width: 1000px;
+    gap: 5px;
+    background-color: #f9f9f9;
+}
+
+.box {
+    border: 2px solid #666;
+    width: 250px;
+    height: 250px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background-color: #e3f2fd;
+    gap: 4px;
+    transition: 0.3s;
+}
+
+.box:nth-child(1) {
+    background-color: #bbdefb;
+    display: flex;
+    flex-direction: column;
+}
+
+.box:nth-child(2) {
+    background-color: #c8e6c9;
+    display: flex;
+    flex-direction: row;
+}
+
+.box:nth-child(3) {
+    background-color: #ffe0b2;
+    display: flex;
+    flex-direction: column;
+}
+
+.box:nth-child(4) {
+    background-color: #f8bbd0;
+    display: flex;
+    flex-direction: row;
+}
+
+.part {
+    width: 250px;
+    height: 125px;
+    background-color: #d1c4e9;
+}
+
+.box:nth-child(1) > div,
+.box:nth-child(3) > div {
+    width: 250px;
+    height: 50%;
+}
+
+.box:nth-child(2) > div,
+.box:nth-child(4) > div {
+    width: 50%;
+    height: 150px;
+}
+
+.box:nth-child(1) > div > img,
+.box:nth-child(3) > div > img {
+    height: 250px;
+    width: 250px;
+}
+
+.box:nth-child(2) > div > img,
+.box:nth-child(4) > div > img {
+    height: 250px;
+    width: 250px;
+}
+
+.box:hover {
+    cursor: pointer;
+    transform: scale(1.05);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+}
