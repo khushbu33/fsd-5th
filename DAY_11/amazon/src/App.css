@@ -1,0 +1,78 @@
+/* Header Navigation */
+.nav-items {
+  display: flex;
+  list-style: none;
+  gap: 20px;
+}
+
+.nav-items li {
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.nav-items li:hover {
+  color: orange;
+}
+
+.logo {
+  width: 100px;
+  height: 100px;
+}
+
+/* Body Section */
+#body {
+  text-align: center;
+  margin-top: 20px;
+}
+
+/* Search Bar */
+.search-bar {
+  margin-top: 20px;
+}
+
+.search-bar input {
+  width: 300px;
+  height: 30px;
+  font-size: 16px;
+  padding: 5px;
+}
+
+.search-bar button {
+  height: 42px;
+  font-size: 16px;
+  padding: 5px 10px;
+  margin-left: 10px;
+  cursor: pointer;
+}
+
+.search-bar button:hover {
+  background-color: orange;
+  color: white;
+}
+
+/* Product Section */
+.product-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  justify-content: center;
+  margin-top: 30px;
+}
+
+.product-card {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 10px;
+  width: 200px;
+  text-align: center;
+  transition: transform 0.2s ease-in-out;
+}
+
+.product-card:hover {
+  transform: scale(1.05);
+}
+.product-card img {
+  width: 100%;
+  height: auto;
+}
