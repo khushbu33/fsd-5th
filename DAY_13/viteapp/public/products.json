@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "title": "Titan Classic Analog Watch",
+    "description": "Elegant stainless-steel analog watch with a leather strap and water resistance up to 50m.",
+    "price": 2499,
+    "category": "Analog",
+    "rating": 4.5,
+    "image": "https://tse1.mm.bing.net/th/id/OIP.LNBYKuEAni8R6MqH3H_TIQHaHa?pid=Api&P=0&h=180"
+  },
+  {
+    "id": 2,
+    "title": "Fossil Grant Chronograph Watch",
+    "description": "Premium chronograph with Roman numerals and durable mineral glass — perfect for formal wear.",
+    "price": 8999,
+    "category": "Chronograph",
+    "rating": 4.7,
+    "image": "https://tse3.mm.bing.net/th/id/OIP.hNXuf-5yzsuBksng9GtGgQHaHa?pid=Api&P=0&h=180"
+  },
+  {
+    "id": 3,
+    "title": "Casio G-Shock Digital Watch",
+    "description": "Shock-resistant digital sports watch with LED backlight, stopwatch, and rugged build.",
+    "price": 5599,
+    "category": "Digital",
+    "rating": 4.6,
+    "image": "https://tse3.mm.bing.net/th/id/OIP.SlXrjJObtPKicA4csBPeKwHaJn?pid=Api&P=0&h=180"
+  },
+  {
+    "id": 4,
+    "title": "NoiseFit Halo Smartwatch",
+    "description": "Smartwatch with AMOLED display, Bluetooth calling, fitness tracking, and heart rate monitoring.",
+    "price": 3499,
+    "category": "Smartwatch",
+    "rating": 4.4,
+    "image": "https://tse1.mm.bing.net/th/id/OIP.Li_BNkoS_9grtqRvLkbjUgAAAA?pid=Api&P=0&h=180"
+  },
+  {
+    "id": 5,
+    "title": "Apple Watch SE (2nd Gen)",
+    "description": "Advanced smartwatch with fitness tracking, sleep monitoring, and seamless Apple ecosystem integration.",
+    "price": 29990,
+    "category": "Smartwatch",
+    "rating": 4.8,
+    "image": "https://tse2.mm.bing.net/th/id/OIP.M4zksZQdesOy06Yt-MzHjAHaI1?pid=Api&P=0&h=180"
+  },
+  {
+    "id": 6,
+    "title": "Sonata Essential Analog Watch",
+    "description": "Stylish analog watch for everyday use with a minimalist dial and reliable quartz movement.",
+    "price": 1399,
+    "category": "Analog",
+    "rating": 4.3,
+    "image": "https://tse1.mm.bing.net/th/id/OIP.AIz44Dh8iZTsUMwvMQgVggHaHa?pid=Api&P=0&h=180"
+  },
+  {
+    "id": 7,
+    "title": "Fire-Boltt Ninja Call Pro Plus",
+    "description": "Budget smartwatch with large HD display, Bluetooth calling, SpO2, and multiple sports modes.",
+    "price": 1999,
+    "category": "Smartwatch",
+    "rating": 4.2,
+    "image": "https://tse1.mm.bing.net/th/id/OIP.rsRyEogNSSmJ_sRbHAIivwHaE8?pid=Api&P=0&h=180"
+  },
+  {
+    "id": 8,
+    "title": "Rolex Submariner Automatic Watch",
+    "description": "Luxury automatic watch with a black dial, unidirectional bezel, and water resistance up to 300m.",
+    "price": 1250000,
+    "category": "Luxury",
+    "rating": 5.0,
+    "image": "https://tse1.mm.bing.net/th/id/OIP.Tlj0omUJ3QZyU69tSzwUdQHaHa?pid=Api&P=0&h=180"
+  },
+  {
+    "id": 9,
+    "title": "Boat Wave Sigma Smartwatch",
+    "description": "Feature-rich smartwatch with AI voice assistant, fitness modes, and call notifications.",
+    "price": 1799,
+    "category": "Smartwatch",
+    "rating": 4.1,
+    "image": "https://tse3.mm.bing.net/th/id/OIP.mLq7986dfezfqzcU4n1SqgHaHa?pid=Api&P=0&h=180"
+  },
+  {
+    "id": 10,
+    "title": "Timex Expedition Field Chronograph",
+    "description": "Adventure-style chronograph watch with rugged leather strap and Indiglo backlight.",
+    "price": 7899,
+    "category": "Chronograph",
+    "rating": 4.5,
+    "image": "https://tse2.mm.bing.net/th/id/OIP.PyYNJMbNSAidwKcSsTzitAHaHa?pid=Api&P=0&h=180"
+  }
+]
